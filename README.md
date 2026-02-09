@@ -1,2 +1,5 @@
-# hello-world
-Zoki test repo
+# Zoki's Workspace
+
+AI assistant coding for Srđan.
+
+🦀
